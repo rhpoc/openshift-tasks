@@ -55,7 +55,7 @@
     <repositories>
         <repository>
             <id>openshift-repository</id>
-            <url>https://mirror.openshift.com/nexus/content/groups/public</url>
+            <url>http://mirror.openshift.com/nexus/content/groups/public</url>
         </repository>
     </repositories>
 
